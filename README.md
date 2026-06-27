@@ -1,9 +1,9 @@
 # ⏱️ Zevon Podomoro
 
-Halo! 👋 
+Hey! 👋 
 
-Ini salah satu utility Zevon bikinanku, namanya **Podomoro** (alias Pomodoro Timer). Aku buat ini spesifik buat bantu aku (dan mungkin kalian juga) biar lebih fokus waktu kerja atau ngerjain tugas.
+This is one of my Zevon utilities called **Podomoro** (my take on a Pomodoro Timer). I built this specifically to help me (and hopefully you!) stay focused while working or tackling tasks.
 
-Desainnya sengaja aku bikin super clean dan minimalis. Tanpa perlu instalasi macem-macem, cukup buka di browser dan langsung jalan. Cocok banget buat jaga produktivitas tetep on track.
+I intentionally designed it to be super clean and minimalist. There's zero setup or installation required—just open it up in your browser and you're good to go. It's the perfect little tool to keep your productivity on track without any distractions.
 
 Have a highly productive day! 🔥
