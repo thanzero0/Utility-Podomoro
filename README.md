@@ -1,16 +1,9 @@
-# Smart Timer ⏱️
+# ⏱️ Zevon Podomoro
 
-A customizable timer and countdown utility for tracking time efficiently. Whether it's for pomodoro sessions, workouts, or general tasks, this timer is built to handle it.
+Halo! 👋 
 
-## 🌟 Features
-- Start, stop, and reset functionality
-- Clean, distraction-free interface
-- Responsive design for all devices
+Ini salah satu utility Zevon bikinanku, namanya **Podomoro** (alias Pomodoro Timer). Aku buat ini spesifik buat bantu aku (dan mungkin kalian juga) biar lebih fokus waktu kerja atau ngerjain tugas.
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- Vanilla JavaScript
+Desainnya sengaja aku bikin super clean dan minimalis. Tanpa perlu instalasi macem-macem, cukup buka di browser dan langsung jalan. Cocok banget buat jaga produktivitas tetep on track.
 
-## 🚀 Getting Started
-Launch the timer by opening `index.html` in any modern web browser.
+Have a highly productive day! 🔥
